@@ -1,5 +1,5 @@
 {
-    "name": "sixty-nine/php-cloud-lib",
+    "name": "harrywebdev/php-cloud-lib",
     "description": "A library to generate words clouds in PHP",
     "type": "library",
     "keywords": ["cloud"],
